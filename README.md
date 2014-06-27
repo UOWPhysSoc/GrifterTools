@@ -18,4 +18,4 @@ from this point forward all modules may be used in the style
 
 e.g. for the n dimensional vector class:
 
-    test vector = GT.vector(1,0,0)
+    test_vector = GT.vector(1,0,0)
